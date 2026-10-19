@@ -1121,6 +1121,7 @@ ul {
 .project-card:nth-child(3) .project-avatar { background: var(--gradient-secondary); }
 .project-card:nth-child(4) .project-avatar { background: linear-gradient(135deg, var(--accent-3), var(--accent-1)); }
 .project-card:nth-child(5) .project-avatar { background: linear-gradient(135deg, var(--accent-4), var(--accent-2)); }
+.project-card:nth-child(6) .project-avatar { background: linear-gradient(135deg, var(--accent-2), var(--accent-4)); }
 
 .project-card h3 {
     font-size: 1.1rem;
